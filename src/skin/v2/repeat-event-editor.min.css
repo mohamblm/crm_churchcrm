@@ -1,0 +1,27 @@
+/*!************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs/index.js!./webpack/repeat-event-editor.css ***!
+  \************************************************************************************************************************************************************/
+@charset "UTF-8";
+/* Repeat Event Editor page styles */
+/* Recurrence pattern labels – fixed width so controls line up */
+.recur-label {
+  min-width: 120px;
+}
+
+/* Recurrence controls – fixed widths */
+.recur-select-dow {
+  width: 160px;
+}
+
+.recur-select-dom {
+  width: 100px;
+}
+
+.recur-input-doy {
+  width: 120px;
+}
+
+/* Pre-selected event-type badge */
+.event-type-badge {
+  font-size: 1rem;
+}
